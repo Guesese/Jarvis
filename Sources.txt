@@ -1,0 +1,6 @@
+https://www.waveshare.com/product/esp32-s3-zero.htm -- фото размеров esp32-c3-super-mini
+https://www.espboards.dev/esp32/esp32-c3-super-mini/ -- инфа о контроллере esp32-c3-super-mini
+
+https://alexgyver.ru/lessons/digispark/ -- инфа о контроллере Digispark ATtiny85 + фото
+https://store.diyusthad.com/product/digispark-attiny85-usb-development-board/ -- фото размеров Digispark ATtiny85
+  
